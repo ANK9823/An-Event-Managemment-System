@@ -1,1 +1,1 @@
-This Event Management System project was created usin intellij IDEA along with Node.js and React.js
+This Event Management System project was created using intellij IDEA along with Node.js and React.js
